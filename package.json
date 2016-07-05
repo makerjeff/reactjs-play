@@ -1,0 +1,11 @@
+{
+  "name": "reactjs-play",
+  "version": "0.1.0",
+  "description": "Play with ReactJS and see if it's a feasible alternative to Angular2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson Wu <makerjeffwu@gmail.com> (www.jeffersonwu.com)",
+  "license": "ISC"
+}
